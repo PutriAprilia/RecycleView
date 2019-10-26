@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FlowerRecyclerView</string>
+
+    <string-array name="tanaman_name">
+        <item>Bunga Matahari</item>
+        <item>Daun Singkong</item>
+        <item>Tanaman Kitolot</item>
+        <item>Lidah Buaya</item>
+        <item>Lidah Mertua</item>
+        <item>Tanaman Piahong</item>
+        <item>Daun Sirih</item>
+        <item>Tanaman Sri Rejeki</item>
+        <item>Tapak Dara</item>
+    </string-array>
+
+
+
+    <array name="tanaman_image">
+        <item>@drawable/matahari</item>
+        <item>@drawable/daunsingkong</item>
+        <item>@drawable/kitolot</item>
+        <item>@drawable/lidahbuaya</item>
+        <item>@drawable/lidahmertua</item>
+        <item>@drawable/piahong</item>
+        <item>@drawable/sirih</item>
+        <item>@drawable/srirejeki</item>
+        <item>@drawable/tapakdara</item>
+    </array>
+</resources>
